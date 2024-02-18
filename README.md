@@ -19,5 +19,7 @@ The user interface is incredibly intuitive – just upload your data, select you
 The goal of this app is to streamline the EDA process, making it accessible to both beginners and seasoned data professionals. Whether you're a data scientist, a business analyst, or a student, Superfast EDA Explorer is here to make your life easier!
 
 
+Project Video:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/faisal-mehmood-awan-4771a8233)
 
